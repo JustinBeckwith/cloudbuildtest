@@ -1,0 +1,16 @@
+{
+  "name": "cloudbuildtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "gaxios": "^1.2.6",
+    "gcp-metadata": "^0.9.3",
+    "googleapis": "^36.0.0"
+  }
+}
